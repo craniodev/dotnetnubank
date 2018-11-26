@@ -5,6 +5,8 @@ Not related to NuBank Inc.
 ## Install
 ```
 Copy class "NuBank.cs" to your project
+nuget Install-Package RestSharp -Version 106.5.4
+nuget Install-Package Newtonsoft.Json -Version 11.0.2
 ```
 
 ## Is it ok to use this? NuBank won't block me?
